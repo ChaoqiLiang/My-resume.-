@@ -1,1 +1,1 @@
-[查看我的简历](https://github.com/ChaoqiLiang/ChaoqiLiang.github.io/blob/main/resume_English.pdf)
+[查看我的简历](https://github.com/ChaoqiLiang/files/blob/main/resume_English.pdf)
